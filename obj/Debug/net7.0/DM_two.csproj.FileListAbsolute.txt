@@ -1,0 +1,15 @@
+G:\pro\DM_two\DM_two\bin\Debug\net7.0\DM_two.exe
+G:\pro\DM_two\DM_two\bin\Debug\net7.0\DM_two.deps.json
+G:\pro\DM_two\DM_two\bin\Debug\net7.0\DM_two.runtimeconfig.json
+G:\pro\DM_two\DM_two\bin\Debug\net7.0\DM_two.dll
+G:\pro\DM_two\DM_two\bin\Debug\net7.0\DM_two.pdb
+G:\pro\DM_two\DM_two\obj\Debug\net7.0\DM_two.csproj.AssemblyReference.cache
+G:\pro\DM_two\DM_two\obj\Debug\net7.0\DM_two.GeneratedMSBuildEditorConfig.editorconfig
+G:\pro\DM_two\DM_two\obj\Debug\net7.0\DM_two.AssemblyInfoInputs.cache
+G:\pro\DM_two\DM_two\obj\Debug\net7.0\DM_two.AssemblyInfo.cs
+G:\pro\DM_two\DM_two\obj\Debug\net7.0\DM_two.csproj.CoreCompileInputs.cache
+G:\pro\DM_two\DM_two\obj\Debug\net7.0\DM_two.dll
+G:\pro\DM_two\DM_two\obj\Debug\net7.0\refint\DM_two.dll
+G:\pro\DM_two\DM_two\obj\Debug\net7.0\DM_two.pdb
+G:\pro\DM_two\DM_two\obj\Debug\net7.0\DM_two.genruntimeconfig.cache
+G:\pro\DM_two\DM_two\obj\Debug\net7.0\ref\DM_two.dll
